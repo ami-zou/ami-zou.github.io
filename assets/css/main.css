@@ -2725,6 +2725,10 @@ input, select, textarea {
 			color: #b7deea;
 		}
 
+		#header div {
+			border-bottom: solid 2px #5c8ecf;
+		}
+
 		#header a {
 			color: #c0e2f5;
 		}
