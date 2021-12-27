@@ -236,6 +236,9 @@ input, select, textarea {
 		text-align: right;
 	}
 
+/* Unit */
+
+
 /* Row */
 
 	.row {
@@ -1986,6 +1989,10 @@ input, select, textarea {
 		color: #aaa !important;
 		font-style: italic;
 		opacity: 1.0;
+	}
+
+	.div-unit {
+		border-bottom: solid 3px #8bc1f3;
 	}
 
 /* Box */
